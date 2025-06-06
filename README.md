@@ -4,13 +4,7 @@
 
 ## 🌐 Live Demo
 
-[Visit the Live Site](https://mulindijr.github.io/techhavenhtmlcss)  
-
-
-## 📸 Preview
-
-![TechHaven Screenshot](./screenshot.png)  
-
+[Visit the Live Site](https://mulindijr.github.io/techhaven-html)  
 
 ## 🚀 Features
 
